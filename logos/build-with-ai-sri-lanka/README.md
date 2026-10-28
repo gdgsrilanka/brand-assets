@@ -5,6 +5,7 @@ Logo for the **Build with AI Sri Lanka 2026** program.
 | File | Layout | Color | Best for |
 | --- | --- | --- | --- |
 | `build-with-ai-sri-lanka-horizontal-color.png` | Horizontal | Color | Headers, banners, light backgrounds |
+| `build-with-ai-sri-lanka-horizontal-white.png` | Horizontal | White | Headers, banners, dark backgrounds |
 
 <img src="build-with-ai-sri-lanka-horizontal-color.png" width="420" alt="Build with AI Sri Lanka 2026">
 

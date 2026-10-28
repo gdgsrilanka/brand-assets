@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logos/gdg-sri-lanka/gdg-sri-lanka-icon-white.png">
-  <img src="logos/gdg-sri-lanka/gdg-sri-lanka-icon-color.png" width="120" alt="GDG Sri Lanka">
+  <source media="(prefers-color-scheme: dark)" srcset="logos/gdg-sri-lanka/gdg-sri-lanka-icon-color.png">
+  <img src="logos/gdg-sri-lanka/gdg-sri-lanka-horizontal-color.png" width="360" alt="GDG Sri Lanka">
 </picture>
 
 # GDG Sri Lanka — Brand Assets
@@ -40,8 +40,9 @@ Each logo is named with the pattern **`<community>-<layout>-<color>.png`**, wher
 - **layout** — `horizontal` (landscape lockup), `stacked` (icon over text), or `icon` (mark only)
 - **color** — `color` (for light backgrounds) or `white` (for dark backgrounds)
 
-> **Tip:** Previews below automatically switch to the white variant when you view this
-> page in GitHub's dark mode.
+> **Tip:** Every logo below is shown on both a light and a dark background, with its file
+> name underneath. Download the files from each logo folder; the preview cards themselves
+> live in [`docs/previews`](docs/previews).
 
 ---
 
@@ -51,86 +52,142 @@ Each logo is named with the pattern **`<community>-<layout>-<color>.png`**, wher
 
 <table>
   <tr>
-    <th align="left">Horizontal (color)</th>
-    <th align="left">Icon (color / white)</th>
+    <th align="left">Light backgrounds</th>
+    <th align="left">Dark backgrounds</th>
   </tr>
   <tr>
     <td valign="middle">
-      <img src="logos/gdg-sri-lanka/gdg-sri-lanka-horizontal-color.png" width="360" alt="GDG Sri Lanka horizontal">
+      <img src="docs/previews/gdg-sri-lanka-horizontal-color-on-light.png" width="360" alt="GDG Sri Lanka, color, on a light background"><br>
+      <sub><code>gdg-sri-lanka-horizontal-color.png</code></sub>
     </td>
     <td valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="logos/gdg-sri-lanka/gdg-sri-lanka-icon-white.png">
-        <img src="logos/gdg-sri-lanka/gdg-sri-lanka-icon-color.png" width="110" alt="GDG Sri Lanka icon">
-      </picture>
+      <img src="docs/previews/gdg-sri-lanka-icon-color-on-dark.png" width="360" alt="GDG Sri Lanka, color mark with white text, on a dark background"><br>
+      <sub><code>gdg-sri-lanka-icon-color.png</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <img src="docs/previews/gdg-sri-lanka-horizontal-black-on-light.png" width="360" alt="GDG Sri Lanka, all black, on a light background"><br>
+      <sub><code>gdg-sri-lanka-horizontal-black.png</code></sub>
+    </td>
+    <td valign="middle">
+      <img src="docs/previews/gdg-sri-lanka-icon-white-on-dark.png" width="360" alt="GDG Sri Lanka, all white, on a dark background"><br>
+      <sub><code>gdg-sri-lanka-icon-white.png</code></sub>
     </td>
   </tr>
 </table>
+
+> **Note:** despite their names, the `icon` files hold the full horizontal lockup for dark
+> backgrounds (color mark with white text, and all white). The second row is the
+> single-color (monochrome) version. There is no mark-only icon yet.
 
 ### GDG Cloud Sri Lanka
 
 <table>
   <tr>
-    <th align="left">Horizontal (color)</th>
-    <th align="left">Icon (color)</th>
+    <th align="left">Light backgrounds</th>
+    <th align="left">Dark backgrounds</th>
   </tr>
   <tr>
     <td valign="middle">
-      <img src="logos/gdg-cloud-sri-lanka/gdg-cloud-sri-lanka-horizontal-color.png" width="360" alt="GDG Cloud Sri Lanka horizontal">
+      <img src="docs/previews/gdg-cloud-sri-lanka-horizontal-color-on-light.png" width="360" alt="GDG Cloud Sri Lanka, color, on a light background"><br>
+      <sub><code>gdg-cloud-sri-lanka-horizontal-color.png</code></sub>
     </td>
     <td valign="middle">
-      <img src="logos/gdg-cloud-sri-lanka/gdg-cloud-sri-lanka-icon-color.png" width="110" alt="GDG Cloud Sri Lanka icon">
+      <img src="docs/previews/gdg-cloud-sri-lanka-icon-color-on-dark.png" width="360" alt="GDG Cloud Sri Lanka, color mark with white text, on a dark background"><br>
+      <sub><code>gdg-cloud-sri-lanka-icon-color.png</code></sub>
     </td>
   </tr>
 </table>
+
+> **Note:** despite its name, `gdg-cloud-sri-lanka-icon-color.png` is the full horizontal
+> lockup for dark backgrounds (color mark with white text).
 
 ### Women Techmakers Sri Lanka
 
 <table>
   <tr>
-    <th align="left">Horizontal</th>
-    <th align="left">Stacked (color)</th>
+    <th align="left">Light backgrounds</th>
+    <th align="left">Dark backgrounds</th>
   </tr>
   <tr>
     <td valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="logos/women-techmakers-sri-lanka/women-techmakers-sri-lanka-horizontal-white.png">
-        <img src="logos/women-techmakers-sri-lanka/women-techmakers-sri-lanka-horizontal-color.png" width="360" alt="Women Techmakers Sri Lanka horizontal">
-      </picture>
+      <img src="docs/previews/women-techmakers-sri-lanka-horizontal-color-on-light.png" width="360" alt="Women Techmakers Sri Lanka, color, on a light background"><br>
+      <sub><code>women-techmakers-sri-lanka-horizontal-color.png</code></sub>
     </td>
     <td valign="middle">
-      <img src="logos/women-techmakers-sri-lanka/women-techmakers-sri-lanka-stacked-color.png" width="150" alt="Women Techmakers Sri Lanka stacked">
+      <img src="docs/previews/women-techmakers-sri-lanka-horizontal-white-on-dark.png" width="360" alt="Women Techmakers Sri Lanka, white, on a dark background"><br>
+      <sub><code>women-techmakers-sri-lanka-horizontal-white.png</code></sub>
     </td>
   </tr>
 </table>
 
+The new Women Techmakers one-line logo. See the
+[folder README](logos/women-techmakers-sri-lanka) for all files.
+
 ### Build with AI Sri Lanka
 
-<img src="logos/build-with-ai-sri-lanka/build-with-ai-sri-lanka-horizontal-color.png" width="420" alt="Build with AI Sri Lanka 2026">
+<table>
+  <tr>
+    <th align="left">Light backgrounds</th>
+    <th align="left">Dark backgrounds</th>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <img src="docs/previews/build-with-ai-sri-lanka-horizontal-color-on-light.png" width="360" alt="Build with AI Sri Lanka 2026, color, on a light background"><br>
+      <sub><code>build-with-ai-sri-lanka-horizontal-color.png</code></sub>
+    </td>
+    <td valign="middle">
+      <img src="docs/previews/build-with-ai-sri-lanka-horizontal-white-on-dark.png" width="360" alt="Build with AI Sri Lanka 2026, white, on a dark background"><br>
+      <sub><code>build-with-ai-sri-lanka-horizontal-white.png</code></sub>
+    </td>
+  </tr>
+</table>
 
 ### Build with AI Buildathon
 
-<img src="logos/buildathon-sri-lanka/buildathon-sri-lanka-horizontal-color.png" width="420" alt="Build with AI Sri Lanka Buildathon 2026">
+<table>
+  <tr>
+    <th align="left">Light backgrounds</th>
+    <th align="left">Dark backgrounds</th>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <img src="docs/previews/buildathon-sri-lanka-horizontal-color-on-light.png" width="360" alt="Build with AI Sri Lanka Buildathon 2026, color, on a light background"><br>
+      <sub><code>buildathon-sri-lanka-horizontal-color.png</code></sub>
+    </td>
+    <td valign="middle">
+      <img src="docs/previews/buildathon-sri-lanka-horizontal-white-on-dark.png" width="360" alt="Build with AI Sri Lanka Buildathon 2026, white, on a dark background"><br>
+      <sub><code>buildathon-sri-lanka-horizontal-white.png</code></sub>
+    </td>
+  </tr>
+</table>
 
 ### DevFest Sri Lanka 2026
 
 <table>
   <tr>
-    <th align="left">Horizontal (color / white)</th>
-    <th align="left">Stacked (color / white)</th>
+    <th align="left">Light backgrounds</th>
+    <th align="left">Dark backgrounds</th>
   </tr>
   <tr>
     <td valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="logos/devfest-sri-lanka/devfest-sri-lanka-horizontal-white.png">
-        <img src="logos/devfest-sri-lanka/devfest-sri-lanka-horizontal-color.png" width="360" alt="DevFest Sri Lanka 2026 horizontal">
-      </picture>
+      <img src="docs/previews/devfest-sri-lanka-horizontal-color-on-light.png" width="360" alt="DevFest Sri Lanka 2026 horizontal, color, on a light background"><br>
+      <sub><code>devfest-sri-lanka-horizontal-color.png</code></sub>
     </td>
     <td valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="logos/devfest-sri-lanka/devfest-sri-lanka-stacked-white.png">
-        <img src="logos/devfest-sri-lanka/devfest-sri-lanka-stacked-color.png" width="260" alt="DevFest Sri Lanka stacked">
-      </picture>
+      <img src="docs/previews/devfest-sri-lanka-horizontal-white-on-dark.png" width="360" alt="DevFest Sri Lanka 2026 horizontal, white, on a dark background"><br>
+      <sub><code>devfest-sri-lanka-horizontal-white.png</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <img src="docs/previews/devfest-sri-lanka-stacked-color-on-light.png" width="360" alt="DevFest Sri Lanka stacked, color, on a light background"><br>
+      <sub><code>devfest-sri-lanka-stacked-color.png</code></sub>
+    </td>
+    <td valign="middle">
+      <img src="docs/previews/devfest-sri-lanka-stacked-white-on-dark.png" width="360" alt="DevFest Sri Lanka stacked, white, on a dark background"><br>
+      <sub><code>devfest-sri-lanka-stacked-white.png</code></sub>
     </td>
   </tr>
 </table>
@@ -194,7 +251,8 @@ The Google core palette used across these marks:
 | Yellow | `#FBBC04` |
 | Green | `#34A853` |
 
-Women Techmakers additionally uses its signature blue → teal gradient (`#1A73E8` → `#00A99D`).
+The Women Techmakers logo uses its own palette: navy `#1D1349`, blue `#0030EF`, and light
+blue `#A7D3F0`, with black text (white on dark backgrounds).
 
 ---
 
