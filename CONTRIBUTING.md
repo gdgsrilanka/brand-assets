@@ -29,6 +29,25 @@ logos/gdg-sri-lanka/gdg-sri-lanka-horizontal-color.png
 logos/gdg-sri-lanka/gdg-sri-lanka-icon-white.png
 ```
 
+### Banners and graphic elements
+
+Event artwork lives in its own top-level folders:
+
+```
+banners/<event-slug>/<event-slug>-<purpose>-<width>x<height>.png
+elements/<kit-slug>/<style>/<kit-slug>-<style>-<name>.<ext>
+```
+
+Examples:
+
+```
+banners/devfest-sri-lanka-2026/devfest-sri-lanka-2026-x-header-1500x500.png
+elements/devfest-2026/filled/devfest-2026-filled-arrow.svg
+```
+
+Export banners at the platform's full pixel size (banners may have solid backgrounds).
+Ship elements as SVG, plus a transparent PNG.
+
 ## Asset requirements
 
 - **Transparent background** (PNG/SVG) — no baked-in white or colored backgrounds.

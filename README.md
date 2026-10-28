@@ -26,6 +26,14 @@ This repository is the single source of truth for the logos of the following com
 | Women Techmakers Sri Lanka | [`logos/women-techmakers-sri-lanka`](logos/women-techmakers-sri-lanka) |
 | Build with AI Sri Lanka | [`logos/build-with-ai-sri-lanka`](logos/build-with-ai-sri-lanka) |
 | Build with AI Buildathon | [`logos/buildathon-sri-lanka`](logos/buildathon-sri-lanka) |
+| DevFest Sri Lanka 2026 | [`logos/devfest-sri-lanka`](logos/devfest-sri-lanka) |
+
+It also holds event artwork:
+
+| Assets | Folder |
+| --- | --- |
+| DevFest Sri Lanka 2026 banners & covers | [`banners/devfest-sri-lanka-2026`](banners/devfest-sri-lanka-2026) |
+| DevFest 2026 graphic elements | [`elements/devfest-2026`](elements/devfest-2026) |
 
 Each logo is named with the pattern **`<community>-<layout>-<color>.png`**, where:
 
@@ -104,6 +112,58 @@ Each logo is named with the pattern **`<community>-<layout>-<color>.png`**, wher
 
 <img src="logos/buildathon-sri-lanka/buildathon-sri-lanka-horizontal-color.png" width="420" alt="Build with AI Sri Lanka Buildathon 2026">
 
+### DevFest Sri Lanka 2026
+
+<table>
+  <tr>
+    <th align="left">Horizontal (color / white)</th>
+    <th align="left">Stacked (color / white)</th>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="logos/devfest-sri-lanka/devfest-sri-lanka-horizontal-white.png">
+        <img src="logos/devfest-sri-lanka/devfest-sri-lanka-horizontal-color.png" width="360" alt="DevFest Sri Lanka 2026 horizontal">
+      </picture>
+    </td>
+    <td valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="logos/devfest-sri-lanka/devfest-sri-lanka-stacked-white.png">
+        <img src="logos/devfest-sri-lanka/devfest-sri-lanka-stacked-color.png" width="260" alt="DevFest Sri Lanka stacked">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+Also available as SVG.
+
+---
+
+## 🖼️ Banners
+
+Ready-to-upload DevFest Sri Lanka 2026 banners and covers — GDG community platform banner
+and thumbnail, website header, Google Form header, LinkedIn cover, and X header — in
+[`banners/devfest-sri-lanka-2026`](banners/devfest-sri-lanka-2026).
+
+<img src="banners/devfest-sri-lanka-2026/devfest-sri-lanka-2026-gdg-event-platform-banner-2560x650.png" width="640" alt="DevFest Sri Lanka 2026 event banner">
+
+---
+
+## ✳️ Graphic elements
+
+The DevFest 2026 code-symbol shapes (filled and line styles) plus the GDG color stripe, as
+SVG and PNG, in [`elements/devfest-2026`](elements/devfest-2026).
+
+<p>
+  <img src="elements/devfest-2026/filled/devfest-2026-filled-arrow.svg" height="44" alt="arrow">
+  <img src="elements/devfest-2026/filled/devfest-2026-filled-chevrons.svg" height="44" alt="chevrons">
+  <img src="elements/devfest-2026/filled/devfest-2026-filled-curly-braces.svg" height="44" alt="curly braces">
+  <img src="elements/devfest-2026/filled/devfest-2026-filled-hash.svg" height="44" alt="hash">
+  <img src="elements/devfest-2026/filled/devfest-2026-filled-triple-circle.svg" height="34" alt="triple circle">
+  <img src="elements/devfest-2026/filled/devfest-2026-filled-x.svg" height="44" alt="x">
+  <img src="elements/devfest-2026/filled/devfest-2026-filled-double-slash.svg" height="44" alt="double slash">
+</p>
+
 ---
 
 ## ✅ Usage guidelines
@@ -117,8 +177,8 @@ Each logo is named with the pattern **`<community>-<layout>-<color>.png`**, wher
 - **Don't** use these marks to imply endorsement of a product, service, or event that is
   not organized by / in partnership with the respective community.
 
-These logos incorporate Google's Google Developer Groups, Women Techmakers, and Build with
-AI brand marks. When using them, please also follow Google's community brand guidelines and
+These logos incorporate Google's Google Developer Groups, Women Techmakers, Build with AI,
+and DevFest brand marks. When using them, please also follow Google's community brand guidelines and
 trademark policy. See [`TRADEMARKS.md`](TRADEMARKS.md).
 
 ---
