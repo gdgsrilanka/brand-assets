@@ -7,6 +7,7 @@ Logos for the **Google Developer Groups Sri Lanka** community.
 | `gdg-sri-lanka-horizontal-color.png` | Horizontal | Color | Headers, banners, light backgrounds |
 | `gdg-sri-lanka-icon-color.png` | Icon | Color | Avatars, favicons, light backgrounds |
 | `gdg-sri-lanka-icon-white.png` | Icon | White | Avatars, favicons, dark backgrounds |
+| `gdg-sri-lanka-horizontal-black.png` | Horizontal | Black (single color) | One-color printing, light backgrounds |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="gdg-sri-lanka-icon-white.png">
