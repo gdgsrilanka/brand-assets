@@ -2,7 +2,7 @@
 
 The logos and brand assets in this repository incorporate trademarks owned by
 **Google LLC** — including the **Google Developer Groups (GDG)**, **Women Techmakers**,
-and **Build with AI** marks — combined with community identifiers for Sri Lanka.
+**Build with AI**, and **DevFest** marks — combined with community identifiers for Sri Lanka.
 
 ## You may
 

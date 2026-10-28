@@ -1,0 +1,8 @@
+<svg width="305" height="309" viewBox="0 0 305 309" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="element/filled/devfest-2026-filled-double-slash">
+<path id="Slash Fill 1" d="M167.18 2.5L72.49 306.25H2.5L97.19 2.5H167.18Z" fill="#4285F4"/>
+<path id="Slash Fill 2" d="M302.5 2.5L207.81 306.25H137.82L232.51 2.5H302.5Z" fill="#4285F4"/>
+<path id="Slash Outline 1" d="M167.18 2.5H97.19L2.5 306.25H72.49L167.18 2.5Z" stroke="#1E1E1E" stroke-width="5" stroke-linejoin="round"/>
+<path id="Slash Outline 2" d="M302.5 2.5H232.51L137.82 306.25H207.81L302.5 2.5Z" stroke="#1E1E1E" stroke-width="5" stroke-linejoin="round"/>
+</g>
+</svg>
